@@ -40,10 +40,10 @@ and the fun I had implementing them, that fuelled my decision to change careers
 
 ## API Reference
 #### Base URL
-```http
+```https
 https://api.coronavirus.data.gov.uk/generic/
 ```
 #### Retrieve all Announcements
-```http
+```
 GET /annoucements
-
+```
