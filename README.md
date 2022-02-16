@@ -28,7 +28,7 @@ and the fun I had implementing them, that fuelled my decision to change careers
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/dKSkfVK.png)
+![App Screenshot](http://imageshack.com/a/img923/8153/a5axtE.png)
 
 
 ## Tech Stack
